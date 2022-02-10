@@ -14,3 +14,5 @@ Which is much better than the previous algorithms like merge, insertion, and
 selection etc., this algorithm is like a method that one of its parameters could be 
 one of the best available algorithms, which is a feature of the SR algorithm that 
 reduces its time complexity that we have explained in our result and discussion.
+
+<img src="https://github.com/OmranAbhar/Square-Root-Sorting-Algorithm/blob/main/RootSort.jpg?raw=true" white="100px" hight="auto"/>
